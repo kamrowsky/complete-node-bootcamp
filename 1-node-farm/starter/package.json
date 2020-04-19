@@ -3,6 +3,9 @@
   "version": "1",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
   "dependencies": {
     "slugify": "^1.4.0"
   },
